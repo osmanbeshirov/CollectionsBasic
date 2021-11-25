@@ -1,0 +1,11 @@
+E:\VisualEngin\ListTest\bin\Debug\netcoreapp2.1\ListTest.deps.json
+E:\VisualEngin\ListTest\bin\Debug\netcoreapp2.1\ListTest.runtimeconfig.json
+E:\VisualEngin\ListTest\bin\Debug\netcoreapp2.1\ListTest.runtimeconfig.dev.json
+E:\VisualEngin\ListTest\bin\Debug\netcoreapp2.1\ListTest.dll
+E:\VisualEngin\ListTest\bin\Debug\netcoreapp2.1\ListTest.pdb
+E:\VisualEngin\ListTest\obj\Debug\netcoreapp2.1\ListTest.csproj.CoreCompileInputs.cache
+E:\VisualEngin\ListTest\obj\Debug\netcoreapp2.1\ListTest.AssemblyInfoInputs.cache
+E:\VisualEngin\ListTest\obj\Debug\netcoreapp2.1\ListTest.AssemblyInfo.cs
+E:\VisualEngin\ListTest\obj\Debug\netcoreapp2.1\ListTest.dll
+E:\VisualEngin\ListTest\obj\Debug\netcoreapp2.1\ListTest.pdb
+E:\VisualEngin\ListTest\obj\Debug\netcoreapp2.1\ListTest.csprojAssemblyReference.cache
